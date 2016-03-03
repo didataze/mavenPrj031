@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e153464b-5bf9-4d52-aaf9-9044986e361a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_service/src/test/java/EmpDELETEClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_service/src/test/java/EmpGETClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_service/src/test/java/EmpPOSTClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_service/src/test/java/EmpPUTClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_service/target/classes/fr/rest/service/EmployeeService.class" afterPath="$PROJECT_DIR$/03_service/target/classes/fr/rest/service/EmployeeService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_presentation/target/04_presentation.war" afterPath="$PROJECT_DIR$/04_presentation/target/04_presentation.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_presentation/target/04_presentation/WEB-INF/lib/01_model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/04_presentation/target/04_presentation/WEB-INF/lib/01_model-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_presentation/target/04_presentation/WEB-INF/lib/03_service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/04_presentation/target/04_presentation/WEB-INF/lib/03_service-1.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCStatementSelectExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/04_presentation_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/04_presentation_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_model/01_model.iml" afterPath="$PROJECT_DIR$/01_model/01_model.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_model/pom.xml" afterPath="$PROJECT_DIR$/01_model/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_service/03_service.iml" afterPath="$PROJECT_DIR$/03_service/03_service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_service/pom.xml" afterPath="$PROJECT_DIR$/03_service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_service/src/main/java/fr/rest/service/EmployeeService.java" afterPath="$PROJECT_DIR$/03_service/src/main/java/fr/rest/service/EmployeeService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_presentation/pom.xml" afterPath="$PROJECT_DIR$/04_presentation/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_presentation/04_presentation.iml" afterPath="$PROJECT_DIR$/04_presentation/04_presentation.iml" />
     </list>
     <ignored path="mavenPrj03.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,11 +85,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmpDELETEClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EmpDELETEClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_service/src/test/java/EmpDELETEClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6218182">
+            <state vertical-scroll-proportion="0.0">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_model/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.333333">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBCStatementSelectExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCStatementSelectExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBCExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5890909">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_model/pom.xml" />
         <option value="$PROJECT_DIR$/01_model/src/main/java/model/Track.java" />
         <option value="$PROJECT_DIR$/03_service/src/main/java/service/JSONService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -134,6 +161,8 @@
         <option value="$PROJECT_DIR$/03_service/src/test/java/EmpPUTClient.java" />
         <option value="$PROJECT_DIR$/03_service/src/main/java/fr/rest/service/EmployeeService.java" />
         <option value="$PROJECT_DIR$/03_service/src/test/java/EmpDELETEClient.java" />
+        <option value="$PROJECT_DIR$/01_model/pom.xml" />
+        <option value="$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCExample.java" />
       </list>
     </option>
   </component>
@@ -398,7 +427,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenPrj03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenPrj03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="con" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -416,6 +479,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01_model/src/main/java/com/base/con" />
       <recent name="$PROJECT_DIR$/01_model/src/main/java" />
       <recent name="$PROJECT_DIR$/03_service/src/main/java" />
     </key>
@@ -427,22 +491,7 @@
       <recent name="$PROJECT_DIR$/01_model/src/main/java/com/rest/employee/model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmpDELETEClient">
-    <configuration default="false" name="EmpGETClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="EmpGETClient" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="03_service" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.JDBCStatementSelectExample">
     <configuration default="false" name="EmpPOSTClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="EmpPOSTClient" />
@@ -485,6 +534,46 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="03_service" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.base.con.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.base.con.JDBCExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="01_model" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JDBCStatementSelectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.base.con.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.base.con.JDBCStatementSelectExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="01_model" />
       <envs />
       <method />
     </configuration>
@@ -1015,19 +1104,21 @@
         </option>
       </method>
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EmpGETClient" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EmpPOSTClient" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EmpPUTClient" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EmpDELETEClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EmpPOSTClient" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EmpPUTClient" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EmpDELETEClient" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JDBCExample" />
+      <item index="5" class="java.lang.String" itemvalue="Application.JDBCStatementSelectExample" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.EmpDELETEClient" />
-        <item index="1" class="java.lang.String" itemvalue="Application.EmpPUTClient" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EmpPOSTClient" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EmpGETClient" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.JDBCStatementSelectExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JDBCExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.EmpDELETEClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EmpPUTClient" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EmpPOSTClient" />
       </list>
     </recent_temporary>
   </component>
@@ -1042,7 +1133,7 @@
       <option name="number" value="Default" />
       <updated>1457013461300</updated>
       <workItem from="1457013465037" duration="4605000" />
-      <workItem from="1457018090381" duration="2979000" />
+      <workItem from="1457018090381" duration="4243000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1457017362526</created>
@@ -1062,11 +1153,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457018359346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test ws rest">
+      <created>1457021086447</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1457021086447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7584000" />
+    <option name="totallyTimeSpent" value="8848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="903" y="1" width="1028" height="1006" extended-state="0" />
@@ -1091,7 +1188,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24937028" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13518052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.49706128" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2387755" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255102" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1113,7 +1210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test ws rest" />
+    <option name="LAST_COMMIT_MESSAGE" value="test ws rest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1207,14 +1305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_model/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1337,8 +1427,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_service/src/test/java/EmpDELETEClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6218182">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCStatementSelectExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_model/src/main/java/com/base/con/JDBCExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5890909">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>

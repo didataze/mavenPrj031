@@ -27,6 +27,7 @@
           <element id="archive" name="01_model-1.0-SNAPSHOT.jar">
             <element id="module-output" name="01_model" />
           </element>
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.21" />
           <element id="library" level="project" name="Maven: com.sun.jersey:jersey-client:1.8" />
         </element>
       </element>
