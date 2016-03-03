@@ -26,18 +26,6 @@ public class EmployeeService {
         return employee;
     }
 
-    @GET
-    @Path("/getM")
-    @Produces(MediaType.APPLICATION_JSON)
-    public Track getTrackInJSON() {
-
-        Track track = new Track();
-        track.setTitle("Enter Sandman");
-        track.setSinger("Metallica");
-
-        return track;
-
-    }
 
     @POST
     @Path("/create")
@@ -53,7 +41,7 @@ public class EmployeeService {
     @Produces(MediaType.APPLICATION_XML)
     public Employee updateEmployee(Employee employee){
 
-        employee.setName(employee.getName()+"updated");
+        employee.setName(employee.getName()+" updated");
         return employee;
     }
 
