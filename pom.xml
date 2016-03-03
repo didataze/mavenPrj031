@@ -12,6 +12,7 @@
         <module>04_presentation</module>
         <module>01_model</module>
         <module>03_service</module>
+        <module>02_persistance</module>
     </modules>
 
 

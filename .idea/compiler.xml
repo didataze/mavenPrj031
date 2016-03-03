@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="01_model" />
+        <module name="02_persistance" />
         <module name="03_service" />
       </profile>
       <profile default="false" name="Annotation profile for 04_presentation" enabled="true">
@@ -35,6 +36,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="01_model" target="1.5" />
+      <module name="02_persistance" target="1.5" />
       <module name="03_service" target="1.5" />
       <module name="04_presentation" target="1.6" />
       <module name="mavenPrj03" target="1.5" />
