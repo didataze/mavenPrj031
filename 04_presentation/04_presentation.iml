@@ -37,5 +37,6 @@
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-xc:1.7.1" level="project" />
     <orderEntry type="module" module-name="03_service" />
     <orderEntry type="module" module-name="01_model" />
+    <orderEntry type="library" name="Maven: com.sun.jersey:jersey-client:1.17" level="project" />
   </component>
 </module>
