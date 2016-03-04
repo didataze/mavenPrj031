@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e153464b-5bf9-4d52-aaf9-9044986e361a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_model/01_model.iml" afterPath="$PROJECT_DIR$/01_model/01_model.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_model/src/main/java/com/mkyong/common/App.java" afterPath="$PROJECT_DIR$/01_model/src/main/java/com/mkyong/common/App.java" />
     </list>
     <ignored path="mavenPrj03.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +47,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1457084359604" expanded="true" signature="59:101270" placeholder="..." />
+                <marker date="1457084359604" expanded="true" signature="98:214" placeholder="..." />
+                <marker date="1457084359604" expanded="true" signature="192:214" placeholder="..." />
+                <marker date="1457084359604" expanded="true" signature="98532:98549" placeholder="..." />
+                <marker date="1457084359604" expanded="true" signature="98532:98567" placeholder="..." />
+                <marker date="1457084359604" expanded="true" signature="98532:98580" placeholder="..." />
+                <marker date="1457084359604" expanded="true" signature="98532:98595" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1336,7 +1340,7 @@
       <workItem from="1457083736308" duration="27000" />
       <workItem from="1457083788289" duration="272000" />
       <workItem from="1457084094106" duration="79000" />
-      <workItem from="1457084198798" duration="159000" />
+      <workItem from="1457084198798" duration="213000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1457017362526</created>
@@ -1380,11 +1384,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457025860230</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dataSources intelliJ">
+      <created>1457084385277</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1457084385277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15862000" />
+    <option name="totallyTimeSpent" value="15916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="731" y="1" width="1117" height="1006" extended-state="0" />
@@ -1402,6 +1412,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5029387" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34262484" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31475028" sideWeight="0.49118388" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24937028" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1414,7 +1425,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16027875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31475028" sideWeight="0.49118388" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1435,7 +1445,8 @@
     <MESSAGE value="test ws rest" />
     <MESSAGE value="exemple JDBC Connection Testing" />
     <MESSAGE value="Ajout de Hibernate 3.2 + MySQL Example (XML Mapping) + Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout de Hibernate 3.2 + MySQL Example (XML Mapping) + Testing" />
+    <MESSAGE value="dataSources intelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="dataSources intelliJ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1620,6 +1631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1685,6 +1697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1692,6 +1705,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1728,6 +1742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1742,6 +1757,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20650096">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1749,6 +1765,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3460803">
           <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1875,7 +1892,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1457084359604" expanded="true" signature="59:101270" placeholder="..." />
+            <marker date="1457084359604" expanded="true" signature="98:214" placeholder="..." />
+            <marker date="1457084359604" expanded="true" signature="192:214" placeholder="..." />
+            <marker date="1457084359604" expanded="true" signature="98532:98549" placeholder="..." />
+            <marker date="1457084359604" expanded="true" signature="98532:98567" placeholder="..." />
+            <marker date="1457084359604" expanded="true" signature="98532:98580" placeholder="..." />
+            <marker date="1457084359604" expanded="true" signature="98532:98595" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
