@@ -48,13 +48,13 @@
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1457084359604" expanded="true" signature="59:101270" placeholder="..." />
-                <marker date="1457084359604" expanded="true" signature="98:214" placeholder="..." />
-                <marker date="1457084359604" expanded="true" signature="192:214" placeholder="..." />
-                <marker date="1457084359604" expanded="true" signature="98532:98549" placeholder="..." />
-                <marker date="1457084359604" expanded="true" signature="98532:98567" placeholder="..." />
-                <marker date="1457084359604" expanded="true" signature="98532:98580" placeholder="..." />
-                <marker date="1457084359604" expanded="true" signature="98532:98595" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="59:102587" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="98:214" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="192:214" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="99849:99866" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="99849:99884" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="99849:99897" placeholder="..." />
+                <marker date="1457084413623" expanded="true" signature="99849:99912" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -1340,7 +1340,7 @@
       <workItem from="1457083736308" duration="27000" />
       <workItem from="1457083788289" duration="272000" />
       <workItem from="1457084094106" duration="79000" />
-      <workItem from="1457084198798" duration="213000" />
+      <workItem from="1457084198798" duration="232000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1457017362526</created>
@@ -1390,11 +1390,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457084385277</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="dataSources intelliJ">
+      <created>1457084420139</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1457084420139</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15916000" />
+    <option name="totallyTimeSpent" value="15935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="731" y="1" width="1117" height="1006" extended-state="0" />
@@ -1893,13 +1899,13 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1457084359604" expanded="true" signature="59:101270" placeholder="..." />
-            <marker date="1457084359604" expanded="true" signature="98:214" placeholder="..." />
-            <marker date="1457084359604" expanded="true" signature="192:214" placeholder="..." />
-            <marker date="1457084359604" expanded="true" signature="98532:98549" placeholder="..." />
-            <marker date="1457084359604" expanded="true" signature="98532:98567" placeholder="..." />
-            <marker date="1457084359604" expanded="true" signature="98532:98580" placeholder="..." />
-            <marker date="1457084359604" expanded="true" signature="98532:98595" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="59:102587" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="98:214" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="192:214" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="99849:99866" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="99849:99884" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="99849:99897" placeholder="..." />
+            <marker date="1457084413623" expanded="true" signature="99849:99912" placeholder="..." />
           </folding>
         </state>
       </provider>
